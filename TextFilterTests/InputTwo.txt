@@ -1,0 +1,1 @@
+It has application programming interfaces for working with text, dates, regular expressions, standard data structures
